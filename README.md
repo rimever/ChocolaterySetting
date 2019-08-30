@@ -1,0 +1,2 @@
+# ChocolaterySetting
+Chocolatery経由の自分用の開発環境構築設定
