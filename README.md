@@ -1,5 +1,5 @@
-# ChocolaterySetting
-Chocolatery経由の自分用の開発環境構築設定
+# ChocolateySetting
+Chocolatey経由の自分用の開発環境構築設定
 
 # インポート手順
 
@@ -9,5 +9,5 @@ Chocolatery経由の自分用の開発環境構築設定
 
 # エクスポート手順
 
-Chocolatery Guiの右上よりconfigファイルを保存する。
+Chocolatey Guiの右上よりconfigファイルを保存する。
 ただし、Parameterについてはエクスポートされない。
